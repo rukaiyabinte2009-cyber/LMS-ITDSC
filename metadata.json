@@ -1,0 +1,6 @@
+{
+  "name": "Learn - IT Data Science Platform",
+  "description": "Coursera-style standalone short-course platform with course player, live Zoom classes, bKash/Nagad verification, assignments, and certificates.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
